@@ -1,0 +1,77 @@
+Source,Target,Weight
+Cyber Legal Advisor,Privacy Officer/Privacy Compliance Manager,0.05
+Data Analyst,Knowledge Manager,0.07
+Privacy Officer/Privacy Compliance Manager,Cyber Workforce Developer and Manager,0.07
+Data Analyst,Systems Developer,0.08
+Cyber Crime Investigator,Cyber Policy and Strategy Planner,0.09
+Cyber Defense Forensics Analyst,Cyber Policy and Strategy Planner,0.09
+Cyber Policy and Strategy Planner,Executive Cyber Leadership,0.09
+Data Analyst,Software Developer,0.09
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Policy and Strategy Planner,0.09
+Privacy Officer/Privacy Compliance Manager,Cyber Policy and Strategy Planner,0.09
+Cyber Defense Incident Responder,Cyber Defense Forensics Analyst,0.1
+Cyber Policy and Strategy Planner,Authorizing Official/Designating Representative,0.1
+Technical Support Specialist,Database Administrator,0.1
+Technical Support Specialist,Network Operations Specialist,0.1
+Cyber Instructional Curriculum Developer,Cyber Workforce Developer and Manager,0.11
+Technical Support Specialist,System Administrator,0.11
+Technical Support Specialist,System Testing and Evaluation Specialist,0.11
+Cyber Defense Incident Responder,Information Systems Security Manager,0.13
+Cyber Workforce Developer and Manager,Cyber Instructional Curriculum Developer,0.13
+Knowledge Manager,Database Administrator,0.13
+System Administrator,System Testing and Evaluation Specialist,0.13
+Cyber Instructor,Cyber Workforce Developer and Manager,0.14
+Executive Cyber Leadership,Authorizing Official/Designating Representative,0.14
+System Administrator,Cyber Defense Infrastructure Support Specialist,0.14
+Network Operations Specialist,System Testing and Evaluation Specialist,0.15
+System Testing and Evaluation Specialist,Secure Software Assessor,0.16
+Cyber Defense Infrastructure Support Specialist,Vulnerability Assessment Analyst,0.17
+Technical Support Specialist,Knowledge Manager,0.17
+System Testing and Evaluation Specialist,Systems Developer,0.18
+System Administrator,Network Operations Specialist,0.19
+Communications Security (COMSEC) Manager,Information Systems Security Manager,0.21
+Cyber Crime Investigator,Law Enforcement/Counterintelligence Forensics Analyst,0.21
+Database Administrator,Data Analyst,0.21
+Cyber Defense Infrastructure Support Specialist,Cyber Defense Incident Responder,0.22
+Network Operations Specialist,Cyber Defense Infrastructure Support Specialist,0.22
+Secure Software Assessor,System Testing and Evaluation Specialist,0.22
+Cyber Defense Incident Responder,Vulnerability Assessment Analyst,0.23
+Software Developer,System Testing and Evaluation Specialist,0.26
+Software Developer,Systems Developer,0.26
+Systems Requirements Planner,Systems Developer,0.28
+Cyber Defense Forensics Analyst,Cyber Crime Investigator,0.29
+Security Control Assessor,Systems Security Analyst,0.32
+Systems Security Analyst,Cyber Defense Analyst,0.32
+Security Control Assessor,Vulnerability Assessment Analyst,0.36
+Systems Developer,System Testing and Evaluation Specialist,0.37
+Cyber Defense Analyst,Cyber Defense Infrastructure Support Specialist,0.38
+Information Systems Security Manager,Executive Cyber Leadership,0.38
+Cyber Defense Analyst,Cyber Defense Incident Responder,0.39
+Information Systems Security Developer,Enterprise Architect,0.39
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Crime Investigator,0.39
+Cyber Defense Analyst,Vulnerability Assessment Analyst,0.4
+Cyber Policy and Strategy Planner,Cyber Workforce Developer and Manager,0.41
+Systems Developer,Enterprise Architect,0.41
+Cyber Instructional Curriculum Developer,Cyber Instructor,0.42
+Data Analyst,Database Administrator,0.43
+Systems Developer,Systems Requirements Planner,0.44
+IT Investment/Portfolio Manager,Program Manager,0.45
+IT Investment/Portfolio Manager,IT Program Auditor,0.46
+Enterprise Architect,Security Architect,0.57
+IT Program Auditor,IT Investment/Portfolio Manager,0.62
+Information Systems Security Manager,Communications Security (COMSEC) Manager,0.67
+Systems Developer,Information Systems Security Developer,0.69
+Cyber Instructor,Cyber Instructional Curriculum Developer,0.77
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Defense Forensics Analyst,0.77
+Security Architect,Enterprise Architect,0.8
+Product Support Manager,Program Manager,0.81
+Program Manager,IT Program Auditor,0.82
+Cyber Workforce Developer and Manager,Cyber Policy and Strategy Planner,0.83
+IT Project Manager,Product Support Manager,0.87
+Cyber Defense Forensics Analyst,Law Enforcement/Counterintelligence Forensics Analyst,0.88
+Software Developer,Secure Software Assessor,0.88
+Product Support Manager,IT Program Auditor,0.89
+Product Support Manager,IT Investment/Portfolio Manager,0.9
+IT Project Manager,IT Investment/Portfolio Manager,0.95
+IT Project Manager,Program Manager,0.96
+Program Manager,IT Investment/Portfolio Manager,1

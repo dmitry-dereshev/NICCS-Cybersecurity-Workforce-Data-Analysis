@@ -1,0 +1,261 @@
+Source,Target,Weight
+Program Manager,IT Investment/Portfolio Manager,1
+IT Project Manager,IT Program Auditor,0.96
+IT Project Manager,Program Manager,0.96
+IT Project Manager,IT Investment/Portfolio Manager,0.95
+All-Source Analyst,Threat/Warning Analyst,0.95
+Security Control Assessor,Authorizing Official/Designating Representative,0.92
+Product Support Manager,IT Investment/Portfolio Manager,0.9
+Product Support Manager,IT Program Auditor,0.89
+All-Source Analyst,Mission Assessment Specialist,0.89
+Mission Assessment Specialist,Threat/Warning Analyst,0.88
+Software Developer,Secure Software Assessor,0.88
+Cyber Defense Forensics Analyst,Law Enforcement/Counterintelligence Forensics Analyst,0.88
+IT Project Manager,Product Support Manager,0.87
+Mission Assessment Specialist,All-Source Analyst,0.84
+Product Support Manager,IT Project Manager,0.83
+Program Manager,IT Project Manager,0.83
+Cyber Workforce Developer and Manager,Cyber Policy and Strategy Planner,0.83
+Program Manager,IT Program Auditor,0.82
+Cyber Ops Planner,Partner Integration Planner,0.82
+Product Support Manager,Program Manager,0.81
+Security Architect,Enterprise Architect,0.8
+Cyber Intel Planner,Cyber Ops Planner,0.8
+Information Systems Security Developer,Systems Developer,0.79
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Defense Forensics Analyst,0.77
+Cyber Instructor,Cyber Instructional Curriculum Developer,0.77
+Threat/Warning Analyst,All-Source Analyst,0.77
+All Source-Collection Manager,All Source-Collection Requirements Manager,0.76
+Threat/Warning Analyst,Mission Assessment Specialist,0.75
+Cyber Intel Planner,Partner Integration Planner,0.74
+Secure Software Assessor,Software Developer,0.74
+Program Manager,Product Support Manager,0.73
+Systems Developer,Information Systems Security Developer,0.69
+Information Systems Security Manager,Communications Security (COMSEC) Manager,0.67
+Target Developer,Mission Assessment Specialist,0.65
+Cyber Ops Planner,Cyber Intel Planner,0.65
+All Source-Collection Requirements Manager,All Source-Collection Manager,0.62
+IT Program Auditor,IT Investment/Portfolio Manager,0.62
+Target Developer,Threat/Warning Analyst,0.61
+Target Developer,All-Source Analyst,0.59
+Mission Assessment Specialist,Target Developer,0.58
+Enterprise Architect,Security Architect,0.57
+All-Source Analyst,Target Developer,0.55
+Partner Integration Planner,Cyber Ops Planner,0.53
+Target Developer,Target Network Analyst,0.51
+IT Program Auditor,IT Project Manager,0.5
+IT Program Auditor,Program Manager,0.49
+IT Program Auditor,Product Support Manager,0.48
+IT Investment/Portfolio Manager,IT Program Auditor,0.46
+Cyber Defense Analyst,Systems Security Analyst,0.46
+Threat/Warning Analyst,Target Developer,0.46
+IT Investment/Portfolio Manager,Program Manager,0.45
+Information Systems Security Developer,Systems Requirements Planner,0.44
+Systems Developer,Systems Requirements Planner,0.44
+Information Systems Security Developer,Systems Security Analyst,0.43
+Systems Developer,Systems Security Analyst,0.43
+Data Analyst,Database Administrator,0.43
+Target Network Analyst,Target Developer,0.42
+Information Systems Security Manager,Authorizing Official/Designating Representative,0.42
+Cyber Instructional Curriculum Developer,Cyber Instructor,0.42
+Systems Developer,Enterprise Architect,0.41
+Cyber Policy and Strategy Planner,Cyber Workforce Developer and Manager,0.41
+Security Architect,Systems Requirements Planner,0.41
+Security Control Assessor,System Testing and Evaluation Specialist,0.41
+Cyber Intel Planner,Threat/Warning Analyst,0.4
+Cyber Defense Analyst,Vulnerability Assessment Analyst,0.4
+Cyber Defense Analyst,Cyber Defense Incident Responder,0.39
+Information Systems Security Developer,Enterprise Architect,0.39
+Security Architect,Systems Security Analyst,0.39
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Crime Investigator,0.39
+Partner Integration Planner,Cyber Intel Planner,0.39
+Cyber Intel Planner,Mission Assessment Specialist,0.38
+Information Systems Security Developer,Authorizing Official/Designating Representative,0.38
+Cyber Defense Analyst,Cyber Defense Infrastructure Support Specialist,0.38
+Information Systems Security Manager,Executive Cyber Leadership,0.38
+IT Investment/Portfolio Manager,IT Project Manager,0.37
+Systems Developer,System Testing and Evaluation Specialist,0.37
+IT Investment/Portfolio Manager,Product Support Manager,0.37
+Cyber Defense Analyst,Authorizing Official/Designating Representative,0.36
+Secure Software Assessor,Authorizing Official/Designating Representative,0.36
+Software Developer,Authorizing Official/Designating Representative,0.36
+Security Control Assessor,Vulnerability Assessment Analyst,0.36
+Cyber Intel Planner,All-Source Analyst,0.35
+Cyber Ops Planner,Threat/Warning Analyst,0.35
+Target Network Analyst,Threat/Warning Analyst,0.35
+Security Architect,Systems Developer,0.35
+Enterprise Architect,Systems Security Analyst,0.34
+Systems Security Analyst,Enterprise Architect,0.34
+Cyber Ops Planner,Mission Assessment Specialist,0.34
+Security Architect,Information Systems Security Developer,0.34
+Mission Assessment Specialist,Target Network Analyst,0.34
+Enterprise Architect,Systems Requirements Planner,0.33
+All-Source Analyst,Target Network Analyst,0.33
+Systems Security Analyst,Systems Developer,0.32
+Systems Security Analyst,Cyber Defense Analyst,0.32
+Threat/Warning Analyst,Target Network Analyst,0.32
+Security Control Assessor,Systems Security Analyst,0.32
+Security Control Assessor,Secure Software Assessor,0.32
+Target Network Analyst,Mission Assessment Specialist,0.31
+Enterprise Architect,Systems Developer,0.31
+Cyber Ops Planner,All-Source Analyst,0.3
+System Testing and Evaluation Specialist,Authorizing Official/Designating Representative,0.3
+Cyber Defense Incident Responder,Cyber Defense Infrastructure Support Specialist,0.3
+Target Network Analyst,All-Source Analyst,0.29
+Cyber Defense Forensics Analyst,Cyber Crime Investigator,0.29
+Information Systems Security Manager,Systems Requirements Planner,0.29
+Systems Requirements Planner,Systems Developer,0.28
+Systems Security Analyst,Information Systems Security Developer,0.28
+Systems Requirements Planner,Enterprise Architect,0.28
+Systems Requirements Planner,Authorizing Official/Designating Representative,0.28
+Authorizing Official/Designating Representative,System Testing and Evaluation Specialist,0.28
+Enterprise Architect,System Testing and Evaluation Specialist,0.28
+Mission Assessment Specialist,Cyber Ops Planner,0.28
+Systems Security Analyst,Security Architect,0.28
+Information Systems Security Manager,Cyber Defense Incident Responder,0.27
+Systems Requirements Planner,Communications Security (COMSEC) Manager,0.27
+All-Source Analyst,Cyber Ops Planner,0.26
+Software Developer,System Testing and Evaluation Specialist,0.26
+Software Developer,Systems Developer,0.26
+Target Developer,Partner Integration Planner,0.25
+Authorizing Official/Designating Representative,Security Control Assessor,0.25
+Systems Requirements Planner,Security Architect,0.25
+Target Network Analyst,Multi-Disciplined Language Analyst,0.25
+Threat/Warning Analyst,Cyber Ops Planner,0.24
+Vulnerability Assessment Analyst,Cyber Defense Infrastructure Support Specialist,0.24
+Secure Software Assessor,Systems Developer,0.24
+Authorizing Official/Designating Representative,Secure Software Assessor,0.24
+Vulnerability Assessment Analyst,Cyber Defense Incident Responder,0.24
+Cyber Defense Incident Responder,Vulnerability Assessment Analyst,0.23
+Software Developer,Information Systems Security Developer,0.23
+All Source-Collection Manager,Threat/Warning Analyst,0.22
+Secure Software Assessor,System Testing and Evaluation Specialist,0.22
+Multi-Disciplined Language Analyst,Target Network Analyst,0.22
+Secure Software Assessor,Information Systems Security Developer,0.22
+Network Operations Specialist,Cyber Defense Infrastructure Support Specialist,0.22
+Cyber Defense Infrastructure Support Specialist,Cyber Defense Incident Responder,0.22
+Partner Integration Planner,Mission Assessment Specialist,0.21
+Database Administrator,Data Analyst,0.21
+Cyber Crime Investigator,Law Enforcement/Counterintelligence Forensics Analyst,0.21
+Communications Security (COMSEC) Manager,Information Systems Security Manager,0.21
+Authorizing Official/Designating Representative,Systems Requirements Planner,0.2
+Vulnerability Assessment Analyst,Authorizing Official/Designating Representative,0.2
+Authorizing Official/Designating Representative,Information Systems Security Manager,0.2
+Cyber Defense Forensics Analyst,Cyber Defense Incident Responder,0.2
+Partner Integration Planner,Threat/Warning Analyst,0.19
+Privacy Officer/Privacy Compliance Manager,Cyber Legal Advisor,0.19
+System Administrator,Network Operations Specialist,0.19
+All Source-Collection Manager,Mission Assessment Specialist,0.19
+Executive Cyber Leadership,Information Systems Security Manager,0.19
+Network Operations Specialist,System Administrator,0.19
+Partner Integration Planner,All-Source Analyst,0.19
+System Testing and Evaluation Specialist,Systems Developer,0.18
+System Testing and Evaluation Specialist,Enterprise Architect,0.18
+Research & Development Specialist,Authorizing Official/Designating Representative,0.18
+System Administrator,Technical Support Specialist,0.18
+Vulnerability Assessment Analyst,Cyber Defense Analyst,0.18
+All Source-Collection Requirements Manager,Threat/Warning Analyst,0.17
+All Source-Collection Manager,All-Source Analyst,0.17
+IT Project Manager,Systems Requirements Planner,0.17
+Cyber Defense Infrastructure Support Specialist,Vulnerability Assessment Analyst,0.17
+Cyber Instructor,Executive Cyber Leadership,0.17
+Cyber Defense Incident Responder,Cyber Defense Analyst,0.17
+Database Administrator,Knowledge Manager,0.17
+Technical Support Specialist,Knowledge Manager,0.17
+System Testing and Evaluation Specialist,Information Systems Security Developer,0.16
+Network Operations Specialist,Authorizing Official/Designating Representative,0.16
+Cyber Instructor,Security Control Assessor,0.16
+System Testing and Evaluation Specialist,Secure Software Assessor,0.16
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Defense Incident Responder,0.16
+Network Operations Specialist,Technical Support Specialist,0.15
+Cyber Workforce Developer and Manager,Communications Security (COMSEC) Manager,0.15
+Cyber Instructional Curriculum Developer,Executive Cyber Leadership,0.15
+Cyber Workforce Developer and Manager,Executive Cyber Leadership,0.15
+All Source-Collection Requirements Manager,Mission Assessment Specialist,0.15
+Network Operations Specialist,System Testing and Evaluation Specialist,0.15
+Vulnerability Assessment Analyst,System Testing and Evaluation Specialist,0.15
+Cyber Instructor,Cyber Workforce Developer and Manager,0.14
+Cyber Workforce Developer and Manager,IT Investment/Portfolio Manager,0.14
+Executive Cyber Leadership,Cyber Policy and Strategy Planner,0.14
+Exploitation Analyst,Target Network Analyst,0.14
+Executive Cyber Leadership,Authorizing Official/Designating Representative,0.14
+All Source-Collection Manager,Target Developer,0.14
+Cyber Crime Investigator,Cyber Defense Forensics Analyst,0.14
+System Administrator,Cyber Defense Infrastructure Support Specialist,0.14
+All Source-Collection Requirements Manager,All-Source Analyst,0.13
+Cyber Defense Forensics Analyst,Vulnerability Assessment Analyst,0.13
+Cyber Defense Incident Responder,Information Systems Security Manager,0.13
+Privacy Officer/Privacy Compliance Manager,Executive Cyber Leadership,0.13
+System Administrator,System Testing and Evaluation Specialist,0.13
+Communications Security (COMSEC) Manager,Systems Requirements Planner,0.13
+Product Support Manager,Systems Requirements Planner,0.13
+Program Manager,Systems Requirements Planner,0.13
+Research & Development Specialist,Systems Requirements Planner,0.13
+Knowledge Manager,Technical Support Specialist,0.13
+Cyber Defense Infrastructure Support Specialist,Network Operations Specialist,0.13
+Exploitation Analyst,Threat/Warning Analyst,0.13
+Cyber Workforce Developer and Manager,Cyber Instructional Curriculum Developer,0.13
+Executive Cyber Leadership,Cyber Instructional Curriculum Developer,0.13
+Knowledge Manager,Database Administrator,0.13
+Exploitation Analyst,Target Developer,0.12
+All Source-Collection Requirements Manager,Cyber Ops Planner,0.12
+System Administrator,Authorizing Official/Designating Representative,0.12
+Cyber Defense Infrastructure Support Specialist,Cyber Defense Analyst,0.12
+Cyber Instructional Curriculum Developer,Cyber Workforce Developer and Manager,0.11
+Executive Cyber Leadership,Cyber Workforce Developer and Manager,0.11
+Cyber Instructor,Network Operations Specialist,0.11
+Technical Support Specialist,System Testing and Evaluation Specialist,0.11
+Technical Support Specialist,System Administrator,0.11
+Exploitation Analyst,Mission Assessment Specialist,0.11
+Research & Development Specialist,IT Program Auditor,0.11
+Multi-Disciplined Language Analyst,Threat/Warning Analyst,0.11
+Database Administrator,Technical Support Specialist,0.1
+Communications Security (COMSEC) Manager,Authorizing Official/Designating Representative,0.1
+Cyber Policy and Strategy Planner,Authorizing Official/Designating Representative,0.1
+Knowledge Manager,Authorizing Official/Designating Representative,0.1
+Technical Support Specialist,Database Administrator,0.1
+Cyber Defense Incident Responder,Cyber Defense Forensics Analyst,0.1
+Exploitation Analyst,Cyber Operator,0.1
+Research & Development Specialist,IT Investment/Portfolio Manager,0.1
+Technical Support Specialist,Network Operations Specialist,0.1
+Multi-Disciplined Language Analyst,Partner Integration Planner,0.09
+Cyber Policy and Strategy Planner,Executive Cyber Leadership,0.09
+Law Enforcement/Counterintelligence Forensics Analyst,Vulnerability Assessment Analyst,0.09
+Research & Development Specialist,Vulnerability Assessment Analyst,0.09
+Cyber Operator,Exploitation Analyst,0.09
+Cyber Defense Infrastructure Support Specialist,System Testing and Evaluation Specialist,0.09
+Privacy Officer/Privacy Compliance Manager,Communications Security (COMSEC) Manager,0.09
+Data Analyst,Software Developer,0.09
+Multi-Disciplined Language Analyst,Target Developer,0.09
+Cyber Instructional Curriculum Developer,Security Control Assessor,0.09
+Cyber Crime Investigator,Cyber Policy and Strategy Planner,0.09
+Cyber Defense Forensics Analyst,Cyber Policy and Strategy Planner,0.09
+IT Program Auditor,Systems Requirements Planner,0.09
+Law Enforcement/Counterintelligence Forensics Analyst,Cyber Policy and Strategy Planner,0.09
+Privacy Officer/Privacy Compliance Manager,Cyber Policy and Strategy Planner,0.09
+Multi-Disciplined Language Analyst,Exploitation Analyst,0.08
+Data Analyst,Systems Developer,0.08
+Cyber Instructional Curriculum Developer,Research & Development Specialist,0.08
+Cyber Legal Advisor,Authorizing Official/Designating Representative,0.08
+IT Investment/Portfolio Manager,Authorizing Official/Designating Representative,0.08
+Data Analyst,Secure Software Assessor,0.08
+Cyber Crime Investigator,Cyber Defense Incident Responder,0.08
+Database Administrator,Cyber Legal Advisor,0.08
+Knowledge Manager,Cyber Legal Advisor,0.08
+Database Administrator,System Testing and Evaluation Specialist,0.07
+Knowledge Manager,System Testing and Evaluation Specialist,0.07
+Communications Security (COMSEC) Manager,Cyber Workforce Developer and Manager,0.07
+Communications Security (COMSEC) Manager,IT Program Auditor,0.07
+Privacy Officer/Privacy Compliance Manager,Cyber Workforce Developer and Manager,0.07
+Cyber Operator,Threat/Warning Analyst,0.07
+Cyber Legal Advisor,Knowledge Manager,0.07
+Data Analyst,Knowledge Manager,0.07
+Cyber Policy and Strategy Planner,Cyber Crime Investigator,0.06
+Cyber Crime Investigator,Authorizing Official/Designating Representative,0.06
+Cyber Operator,Target Developer,0.06
+Cyber Operator,Mission Assessment Specialist,0.06
+Cyber Operator,Vulnerability Assessment Analyst,0.06
+Cyber Legal Advisor,Privacy Officer/Privacy Compliance Manager,0.05
+Cyber Legal Advisor,Technical Support Specialist,0.05
+Cyber Legal Advisor,Database Administrator,0.05
+Cyber Policy and Strategy Planner,IT Investment/Portfolio Manager,0.05
